@@ -71,7 +71,7 @@
                                 "scoped": "true",
                                 "connection": "google"
                             },
-                            "label": "Marlin's Google connection (*************@gmail.com)"
+                            "label": "홍길동's Google connection (*************@gmail.com)"
                         }
                     }
                 },
@@ -747,7 +747,7 @@
             "module": "gemini-ai:createACompletionGeminiPro",
             "version": 1,
             "parameters": {
-                "__IMTCONN__": 10621475
+                "__IMTCONN__": 00000000
             },
             "mapper": {
                 "model": "gemini-3.6-flash",
@@ -875,16 +875,16 @@
                         "__IMTCONN__": {
                             "data": {
                                 "scoped": "true",
-                                "connection": "gemini-ai-q9zyjp"
+                                "connection": "gemini-ai-******"
                             },
-                            "label": "Marlin's Gemini AI connection"
+                            "label": "홍길동's Gemini AI connection"
                         }
                     }
                 },
                 "parameters": [
                     {
                         "name": "__IMTCONN__",
-                        "type": "account:gemini-ai-q9zyjp",
+                        "type": "account:gemini-ai-******",
                         "label": "Connection",
                         "required": true
                     }
@@ -1296,7 +1296,7 @@
             "module": "google-drive:getAFile",
             "version": 4,
             "parameters": {
-                "__IMTCONN__": 10620972
+                "__IMTCONN__": 00000000
             },
             "mapper": {
                 "file": "/***************************",
@@ -1344,7 +1344,7 @@
                                 "scoped": "true",
                                 "connection": "google-drive"
                             },
-                            "label": "Marlin's Google Drive connection (frontierjwyoon0123@gmail.com)"
+                            "label": "홍길동's Google Drive connection (***************@gmail.com)"
                         }
                     }
                 },
@@ -1453,7 +1453,7 @@
             "module": "instagram-business:CreatePostPhoto",
             "version": 1,
             "parameters": {
-                "__IMTCONN__": 10619671
+                "__IMTCONN__": 00000000
             },
             "mapper": {
                 "caption": "{{`4`}}{{4.result}}",
