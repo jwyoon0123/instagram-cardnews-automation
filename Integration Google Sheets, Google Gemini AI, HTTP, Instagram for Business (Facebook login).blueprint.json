@@ -6,7 +6,7 @@
             "module": "google-sheets:filterRows",
             "version": 2,
             "parameters": {
-                "__IMTCONN__": 10619140
+                "__IMTCONN__": ******
             },
             "mapper": {
                 "from": "share",
@@ -22,7 +22,7 @@
                 ],
                 "sheetId": "시트1",
                 "sortOrder": "asc",
-                "spreadsheetId": "spreadsheets/d/1imIwOzlqW7Sp5fmwF3FOJr_lJ9RO_Pmk6_IgiuIj7IQ",
+                "spreadsheetId": "spreadsheets/d/***************************",
                 "tableFirstRow": "A1:CZ1",
                 "includesHeaders": true,
                 "valueRenderOption": "FORMATTED_VALUE",
@@ -71,7 +71,7 @@
                                 "scoped": "true",
                                 "connection": "google"
                             },
-                            "label": "Marlin's Google connection (frontierjwyoon0123@gmail.com)"
+                            "label": "Marlin's Google connection (*************@gmail.com)"
                         }
                     }
                 },
@@ -1299,7 +1299,7 @@
                 "__IMTCONN__": 10620972
             },
             "mapper": {
-                "file": "/1owGJlN4_nWfIQJSGEDWwbYrA_vnT0I8J",
+                "file": "/***************************",
                 "select": "value",
                 "destination": "drive",
                 "formatDrawings": "image/jpeg",
@@ -1457,7 +1457,7 @@
             },
             "mapper": {
                 "caption": "{{`4`}}{{4.result}}",
-                "accountId": "17841480422541483",
+                "accountId": "************",
                 "image_url": "{{37.webContentLink}}"
             },
             "metadata": {
@@ -1469,7 +1469,7 @@
                     "expect": {
                         "accountId": {
                             "mode": "chose",
-                            "label": "Hello world  (@null_to_root)"
+                            "label": "Hello world  (@홍길)"
                         },
                         "user_tags": {
                             "mode": "chose"
@@ -1481,7 +1481,7 @@
                                 "scoped": "true",
                                 "connection": "facebook"
                             },
-                            "label": "Marlin's Facebook connection (Junwon Yoon)"
+                            "label": "홍길's Facebook connection (홍길동)"
                         }
                     }
                 },
